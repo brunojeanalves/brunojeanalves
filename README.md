@@ -1,5 +1,5 @@
-**Oi, meu nome é Bruno Jean**
+- **Oi, meu nome é Bruno Jean**
 
-**Estou aprendendo pensamento computacional**
+- **Estou aprendendo pensamento computacional**
 
-**Tenho 14 anos**
+- **Tenho 14 anos**
